@@ -1,0 +1,14 @@
+Package: dauc
+Version: 0.5
+Date: 2013-02-06
+Title: A GPU auction algorithm
+Author: Josh Buckner
+Maintainer: Josh Buckner <nullsatz@gmail.com>
+Depends: R (>= 2.15), Rcpp (>= 0.10)
+SystemRequirements: 64 bit R and Nvidia's CUDA toolkit (release 4 or 5)
+Description: This package provides an R interface for a GPU enabled auction algorithm
+License: BSD
+URL:
+Repository:
+Date/Publication: 2013-02-06 08:30:00 EST
+Packaged: 2013-02-07 02:41:11 UTC; bucknerj
